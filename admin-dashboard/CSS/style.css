@@ -165,7 +165,7 @@ aside .logo img {
 }
 
 aside .close {
-    display: none;
+    display: block;
 }
 
 aside .sidebar {
